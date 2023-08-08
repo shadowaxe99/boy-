@@ -1,0 +1,28 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build
+        run: npm run build
+
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v1
+        with:
+          publish-dir: build
+          deploy-token: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          command: deploy
+          args: --prod

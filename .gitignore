@@ -1,0 +1,248 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Build files
+build/
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Vim
+*.swp
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# WebStorm
+.idea/
+
+# Sublime Text
+.sublime-project
+.sublime-workspace
+
+# TextMate
+*.tmproj
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# JetBrains
+*.iml
+.idea/
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Gradle
+/.gradle/
+/build/
+
+# Maven
+/target/
+
+# Yarn
+.yarn/
+.yarnrc
+.yarn-integrity
+
+# Parcel
+.cache/
+
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+
+# Gatsby
+.cache/
+
+# Vuepress
+.vuepress/dist/
+
+# Svelte
+__sapper__/
+
+# Rollup.js
+/.rpt2_cache/
+/.rts2_cache_cjs/
+/.rts2_cache_es/
+/.rts2_cache_umd/
+
+# Deno
+.cache/
+
+# Bazel
+/bazel-
+/bazel-out/
+
+# Buck
+.buckd/
+.buckconfig.local
+
+# Mercurial
+.hg/
+
+# CVS
+CVS
+
+# Subversion
+.svn/
+
+# Perforce
+.p4/
+
+# Vagrant
+/.vagrant/
+
+# ESLint
+/.eslintcache
+
+# Prettier
+/prettier-debug.log
+
+# dotenv
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Vim
+*.swp
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# WebStorm
+.idea/
+
+# Sublime Text
+.sublime-project
+.sublime-workspace
+
+# TextMate
+*.tmproj
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# JetBrains
+*.iml
+.idea/
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Gradle
+/.gradle/
+/build/
+
+# Maven
+/target/
+
+# Yarn
+.yarn/
+.yarnrc
+.yarn-integrity
+
+# Parcel
+.cache/
+
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+
+# Gatsby
+.cache/
+
+# Vuepress
+.vuepress/dist/
+
+# Svelte
+__sapper__/
+
+# Rollup.js
+/.rpt2_cache/
+/.rts2_cache_cjs/
+/.rts2_cache_es/
+/.rts2_cache_umd/
+
+# Deno
+.cache/
+
+# Bazel
+/bazel-
+/bazel-out/
+
+# Buck
+.buckd/
+.buckconfig.local
+
+# Mercurial
+.hg/
+
+# CVS
+CVS
+
+# Subversion
+.svn/
+
+# Perforce
+.p4/
+
+# Vagrant
+/.vagrant/
+
+# ESLint
+/.eslintcache
+
+# Prettier
+/prettier-debug.log
+
+# dotenv
+.env
